@@ -42,7 +42,7 @@ Le fichier `Superstore_Dashboard.pbix` est construit sur le dataset nettoyé et 
 ---
 ## 📷 Aperçu du Dashboard
 ![KPIs](images/KPI.png)
-![Top produits et évolution dans le temps](images/tpo_products.png)
+![Top produits et évolution dans le temps](images/top_products.png)
 ![Répartition géographique](images/map.png)
 
 ---
