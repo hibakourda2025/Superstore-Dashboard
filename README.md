@@ -6,7 +6,7 @@
 
 ## 📌 Aperçu du projet
 
-Ce projet couvre l'ensemble du pipeline d'un projet de data analytics, de la donnée brute jusqu'au dashboard interactif :
+Ce projet couvre l'ensemble du pipeline d'un projet de data analytics, de la donnée brute jusqu'au dashboard interactif:
 
 1. **Exploration & nettoyage** des données brutes avec Python (Pandas)
 2. **Visualisation & analyse** avec Power BI Desktop
