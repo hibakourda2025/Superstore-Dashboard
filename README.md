@@ -40,6 +40,12 @@ Le fichier `Superstore_Dashboard.pbix` est construit sur le dataset nettoyé et 
 - **Répartition géographique** : 4 régions US (South, West, Central, East)
 
 ---
+## 📷 Aperçu du Dashboard
+![KPIs](images/KPI.png)
+![Top produits et évolution dans le temps](images/tpo_products.png)
+![Répartition géographique](images/map.png)
+
+---
 
 ## 🛠️ Technologies utilisées
 
